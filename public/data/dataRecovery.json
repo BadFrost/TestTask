@@ -1,0 +1,80 @@
+[
+    {
+        "imgSrc": "../public/images/intel_core_i5_10400.jpg",
+        "title": "Intel Core i5-10400 BOX",
+        "socket": "Socket 1200",
+        "processorFamily": "Intel Core i5",
+        "cores": "6",
+        "gen": "Comet Lake (десятое)",
+        "internalGraphics": "Intel UHD Graphics 630",
+        "internalClockSpeed": "2900 МГц",
+        "cash": "12 МБ",
+        "price": 230,
+        "id": "BX8070110400"
+    },
+    {
+        "imgSrc": "../public/images/intel_core_i5_7400.jpg",
+        "title": "Intel Core i5-7400 BOX",
+        "socket": "Socket 1151",
+        "processorFamily": "Intel Core i5",
+        "cores": "4",
+        "gen": "Kaby Lake (седьмое)",
+        "internalGraphics": "Intel HD Graphics 630",
+        "internalClockSpeed": "3000 МГц",
+        "cash": "6 МБ",
+        "price": 232,
+        "id": "BX80677I57400"
+    },
+    {
+        "imgSrc": "../public/images/intel_core_i3_8100.jpg",
+        "title": "Intel Core i3-8100 BOX",
+        "socket": "Socket 1151",
+        "processorFamily": "Intel Core i3",
+        "cores": "4",
+        "gen": "Coffee Lake (восьмое)",
+        "internalGraphics": "None",
+        "internalClockSpeed": "3600 МГц",
+        "cash": "6 МБ",
+        "price": 127,
+        "id": "BX80684I38100"
+    },
+    {
+        "imgSrc": "../public/images/intel_core_i3_6100.jpg",
+        "title": "Intel Core i3-6100 BOX",
+        "socket": "Socket 1151",
+        "processorFamily": "Intel Core i3",
+        "cores": "2",
+        "gen": "Skylake (шестое)",
+        "internalGraphics": "Intel HD Graphics 530",
+        "internalClockSpeed": "3700 МГц",
+        "cash": "3 МБ",
+        "price": 119,
+        "id": "BX80662I36100"
+    },
+    {
+        "imgSrc": "../public/images/intel_core_i7_7700.jpg",
+        "title": "Intel Core i7-7700 BOX",
+        "socket": "Socket 1151",
+        "processorFamily": "Intel Core i7",
+        "cores": "4",
+        "gen": "Kaby Lake (седьмое)",
+        "internalGraphics": "Intel HD Graphics 630",
+        "internalClockSpeed": "3600 МГц",
+        "cash": "8 МБ",
+        "price": 386,
+        "id": "BX80677I77700"
+    },
+    {
+        "imgSrc": "../public/images/intel_core_i7_9700k.jpg",
+        "title": "Intel Core i3-9700k BOX",
+        "socket": "Socket 1151",
+        "processorFamily": "Intel Core i7",
+        "cores": "8",
+        "gen": "Coffee Lake (девятое)",
+        "internalGraphics": "Intel UHD Graphics 630",
+        "internalClockSpeed": "3600 МГц",
+        "cash": "12 МБ",
+        "price": 470,
+        "id": "BX80684I79700K"
+    }
+]
