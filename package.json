@@ -43,7 +43,7 @@
     "edit-json-file": "^1.4.0",
     "fs": "0.0.1-security",
     "fs-web": "^1.0.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
